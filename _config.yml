@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: MRCKP
+description: Overdenkingen en meningen over kleine dingen ergens op een zijpaadje van de digitale snelweg
 
-url: https://long-haul.netlify.app
+url: https://mrckp.nl
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
